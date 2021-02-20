@@ -1,0 +1,15 @@
+/Users/dkkehokr/Development/designPatterns/singleton/bin/Debug/net5.0/singleton.deps.json
+/Users/dkkehokr/Development/designPatterns/singleton/bin/Debug/net5.0/singleton.runtimeconfig.json
+/Users/dkkehokr/Development/designPatterns/singleton/bin/Debug/net5.0/singleton.runtimeconfig.dev.json
+/Users/dkkehokr/Development/designPatterns/singleton/bin/Debug/net5.0/singleton.dll
+/Users/dkkehokr/Development/designPatterns/singleton/bin/Debug/net5.0/ref/singleton.dll
+/Users/dkkehokr/Development/designPatterns/singleton/bin/Debug/net5.0/singleton.pdb
+/Users/dkkehokr/Development/designPatterns/singleton/obj/Debug/net5.0/singleton.csprojAssemblyReference.cache
+/Users/dkkehokr/Development/designPatterns/singleton/obj/Debug/net5.0/singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkkehokr/Development/designPatterns/singleton/obj/Debug/net5.0/singleton.AssemblyInfoInputs.cache
+/Users/dkkehokr/Development/designPatterns/singleton/obj/Debug/net5.0/singleton.AssemblyInfo.cs
+/Users/dkkehokr/Development/designPatterns/singleton/obj/Debug/net5.0/singleton.csproj.CoreCompileInputs.cache
+/Users/dkkehokr/Development/designPatterns/singleton/obj/Debug/net5.0/singleton.dll
+/Users/dkkehokr/Development/designPatterns/singleton/obj/Debug/net5.0/ref/singleton.dll
+/Users/dkkehokr/Development/designPatterns/singleton/obj/Debug/net5.0/singleton.pdb
+/Users/dkkehokr/Development/designPatterns/singleton/obj/Debug/net5.0/singleton.genruntimeconfig.cache
