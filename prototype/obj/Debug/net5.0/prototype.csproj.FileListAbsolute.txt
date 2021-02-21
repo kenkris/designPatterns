@@ -1,0 +1,15 @@
+/Users/dkkehokr/Development/designPatterns/prototype/bin/Debug/net5.0/prototype.deps.json
+/Users/dkkehokr/Development/designPatterns/prototype/bin/Debug/net5.0/prototype.runtimeconfig.json
+/Users/dkkehokr/Development/designPatterns/prototype/bin/Debug/net5.0/prototype.runtimeconfig.dev.json
+/Users/dkkehokr/Development/designPatterns/prototype/bin/Debug/net5.0/prototype.dll
+/Users/dkkehokr/Development/designPatterns/prototype/bin/Debug/net5.0/ref/prototype.dll
+/Users/dkkehokr/Development/designPatterns/prototype/bin/Debug/net5.0/prototype.pdb
+/Users/dkkehokr/Development/designPatterns/prototype/obj/Debug/net5.0/prototype.csprojAssemblyReference.cache
+/Users/dkkehokr/Development/designPatterns/prototype/obj/Debug/net5.0/prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkkehokr/Development/designPatterns/prototype/obj/Debug/net5.0/prototype.AssemblyInfoInputs.cache
+/Users/dkkehokr/Development/designPatterns/prototype/obj/Debug/net5.0/prototype.AssemblyInfo.cs
+/Users/dkkehokr/Development/designPatterns/prototype/obj/Debug/net5.0/prototype.csproj.CoreCompileInputs.cache
+/Users/dkkehokr/Development/designPatterns/prototype/obj/Debug/net5.0/prototype.dll
+/Users/dkkehokr/Development/designPatterns/prototype/obj/Debug/net5.0/ref/prototype.dll
+/Users/dkkehokr/Development/designPatterns/prototype/obj/Debug/net5.0/prototype.pdb
+/Users/dkkehokr/Development/designPatterns/prototype/obj/Debug/net5.0/prototype.genruntimeconfig.cache
